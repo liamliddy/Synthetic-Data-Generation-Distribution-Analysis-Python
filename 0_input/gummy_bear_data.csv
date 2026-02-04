@@ -1,0 +1,1001 @@
+Brand,Weight_g,Bear_Count,Average_Price_USD
+SmartSweets,200,60,3.16
+Albanese,500,60,4.96
+Surf Sweets,300,30,4.27
+SmartSweets,500,50,5.74
+Albanese,500,10,4.54
+Trolli,300,10,4.34
+SmartSweets,200,30,2.55
+Surf Sweets,250,20,3.39
+Jelly Belly,500,30,5.37
+Albanese,150,60,2.36
+Surf Sweets,50,100,1.02
+Surf Sweets,150,40,2.67
+Albanese,50,60,1.04
+Haribo,100,60,1.97
+Trolli,150,40,2.17
+Surf Sweets,500,10,5.14
+Surf Sweets,150,10,2.33
+Trolli,300,80,4.07
+Albanese,150,20,2.1
+Albanese,500,50,5.58
+Black Forest,200,10,3.25
+Haribo,250,100,3.48
+SmartSweets,150,80,2.83
+Jelly Belly,100,10,2.05
+Black Forest,300,100,3.59
+Albanese,150,30,2.43
+Albanese,150,100,2.64
+SmartSweets,50,50,1.03
+Trolli,500,60,5.25
+Haribo,250,50,3.46
+Trolli,200,20,2.64
+Haribo,300,60,3.81
+Surf Sweets,150,20,2.39
+Haribo,250,10,3.94
+Black Forest,200,20,3.23
+Haribo,200,30,3.25
+Jelly Belly,200,50,3.28
+Albanese,50,80,1.2
+Surf Sweets,100,50,2.07
+Trolli,300,60,4.22
+Jelly Belly,250,30,3.1
+SmartSweets,100,10,2.26
+Trolli,300,60,4.16
+Albanese,150,80,2.64
+Trolli,150,40,2.82
+Surf Sweets,100,100,1.5
+Surf Sweets,100,10,1.93
+Jelly Belly,200,50,3.15
+Trolli,500,40,5.85
+Haribo,250,10,3.4
+Albanese,100,10,2.46
+SmartSweets,100,100,2.24
+Trolli,200,80,3.24
+Surf Sweets,50,50,1.33
+SmartSweets,100,100,2.47
+Haribo,100,50,2.17
+Surf Sweets,250,30,3.47
+Surf Sweets,300,80,4.37
+Surf Sweets,100,100,2.41
+Jelly Belly,300,20,3.59
+SmartSweets,200,20,3.46
+Black Forest,50,100,1.06
+Jelly Belly,50,60,1.4
+Surf Sweets,500,60,4.61
+Jelly Belly,200,30,3.04
+Haribo,300,50,3.95
+Surf Sweets,300,20,4.49
+Trolli,150,40,2.16
+SmartSweets,200,10,2.57
+Surf Sweets,200,50,3.38
+SmartSweets,500,40,4.56
+Trolli,300,30,4.33
+Jelly Belly,50,30,1.09
+Surf Sweets,150,20,2.1
+Surf Sweets,200,10,2.85
+Jelly Belly,250,30,3.23
+Black Forest,500,20,4.77
+Haribo,200,20,3.04
+SmartSweets,500,100,5.4
+Haribo,50,10,1.1
+SmartSweets,500,40,5.64
+Jelly Belly,250,30,3.81
+Albanese,250,60,3.62
+Trolli,150,80,2.58
+SmartSweets,150,80,2.66
+Trolli,150,80,2.79
+Trolli,100,30,1.69
+Trolli,200,30,2.51
+Haribo,150,40,2.25
+Surf Sweets,500,50,5.8
+Jelly Belly,300,100,4.26
+Jelly Belly,200,50,3.17
+Trolli,200,80,3.27
+Jelly Belly,500,50,5.07
+SmartSweets,500,80,5.74
+Trolli,500,10,4.59
+Trolli,500,60,5.16
+Jelly Belly,200,60,3.08
+Jelly Belly,200,10,3.47
+Jelly Belly,250,30,3.35
+Black Forest,250,10,3.33
+Black Forest,100,10,1.73
+Haribo,250,30,3.18
+SmartSweets,200,40,3.08
+Surf Sweets,50,60,1.13
+SmartSweets,200,60,3.37
+Black Forest,200,80,2.77
+Albanese,200,40,2.93
+Jelly Belly,50,60,1.24
+Haribo,150,10,2.46
+SmartSweets,500,40,4.69
+Trolli,50,50,1.43
+Trolli,200,20,3.2
+Trolli,50,50,1.25
+Albanese,300,100,4.28
+Albanese,300,100,3.82
+Haribo,300,10,4.21
+Black Forest,200,60,2.69
+Jelly Belly,250,100,3.8
+Albanese,250,20,3.58
+Haribo,500,60,4.73
+Trolli,250,20,3.4
+Trolli,50,10,1.33
+Surf Sweets,200,80,2.91
+Albanese,100,60,2.32
+Jelly Belly,300,100,4
+Black Forest,100,100,1.73
+Albanese,50,60,1.15
+Albanese,200,40,2.95
+Surf Sweets,300,40,4.44
+Albanese,300,30,3.63
+Albanese,200,30,2.64
+Haribo,200,10,2.81
+Surf Sweets,200,80,2.86
+Trolli,250,60,3.32
+Albanese,250,100,3.02
+Haribo,300,80,4.45
+SmartSweets,100,40,2.48
+Black Forest,100,60,2.39
+Haribo,500,10,4.96
+Black Forest,100,30,2.03
+Albanese,150,20,2.18
+Trolli,500,20,4.57
+Surf Sweets,200,10,3.25
+SmartSweets,500,50,5.35
+Haribo,50,60,1.18
+SmartSweets,250,80,3.26
+Black Forest,200,100,2.74
+Albanese,250,10,3.72
+Albanese,250,60,3.05
+Surf Sweets,300,80,4.26
+SmartSweets,500,40,5.49
+Surf Sweets,150,40,2.94
+Surf Sweets,200,40,3.05
+Black Forest,50,40,1.05
+SmartSweets,100,50,1.77
+Black Forest,300,10,3.63
+Haribo,50,40,1.34
+SmartSweets,300,30,4.21
+Jelly Belly,200,10,2.88
+Trolli,200,30,2.62
+Trolli,500,40,5.56
+Black Forest,500,40,4.98
+Black Forest,300,60,3.75
+Haribo,50,80,1.43
+Haribo,50,60,1.42
+Haribo,250,30,3.36
+SmartSweets,500,10,5.36
+Jelly Belly,250,10,3.47
+Haribo,300,50,3.98
+Jelly Belly,300,40,4.18
+SmartSweets,500,20,5.26
+Trolli,500,50,5.16
+SmartSweets,250,20,3.32
+Albanese,200,30,3.35
+Trolli,50,20,1.26
+Jelly Belly,250,40,3.76
+SmartSweets,300,50,3.51
+Haribo,200,60,3.48
+Black Forest,100,20,1.51
+Jelly Belly,50,30,1.29
+SmartSweets,100,60,2.31
+Albanese,200,50,3.19
+Black Forest,150,80,2.05
+Surf Sweets,300,80,3.92
+Jelly Belly,300,100,3.66
+SmartSweets,200,60,2.63
+Albanese,100,10,1.93
+Jelly Belly,200,60,3.08
+Black Forest,100,10,1.66
+Albanese,500,100,5.02
+Albanese,300,40,3.78
+SmartSweets,100,60,1.85
+Surf Sweets,200,20,3.25
+Black Forest,50,80,1.03
+Albanese,300,30,3.84
+Haribo,250,80,3.77
+Jelly Belly,50,60,1.2
+Trolli,100,20,1.58
+SmartSweets,50,30,1.43
+Albanese,200,80,3.31
+Jelly Belly,300,10,4.35
+Haribo,100,60,2.03
+SmartSweets,250,40,3.44
+Surf Sweets,200,30,2.96
+Albanese,50,100,1.28
+Albanese,150,80,2.78
+Trolli,150,20,2.6
+SmartSweets,250,80,3.63
+Black Forest,300,40,4.23
+Trolli,100,60,1.62
+Black Forest,150,30,2.33
+Black Forest,250,20,3.05
+Surf Sweets,100,100,1.81
+Haribo,300,10,4.45
+Jelly Belly,150,60,2.07
+Albanese,150,50,2.27
+Black Forest,100,100,2.13
+Surf Sweets,100,60,1.93
+Black Forest,150,60,2.11
+Jelly Belly,50,50,1.32
+Jelly Belly,50,30,1.34
+SmartSweets,500,100,4.97
+Surf Sweets,50,80,1.27
+Albanese,150,60,2.73
+Black Forest,50,100,1.22
+Black Forest,150,100,2.05
+Trolli,150,50,2.16
+Surf Sweets,100,80,2.05
+Trolli,100,30,1.64
+Albanese,250,100,3.6
+Trolli,250,10,3.97
+Trolli,250,80,3.34
+Jelly Belly,150,60,2.32
+Jelly Belly,100,80,1.9
+Trolli,300,80,4.47
+Black Forest,500,40,4.86
+Albanese,250,20,3.66
+Haribo,200,50,3.14
+Jelly Belly,150,30,2.62
+Haribo,100,80,2.12
+SmartSweets,300,50,4.2
+Black Forest,100,80,1.81
+Jelly Belly,250,10,3.15
+SmartSweets,50,60,1.28
+Albanese,150,60,2.79
+Jelly Belly,300,10,4.31
+Black Forest,200,40,2.95
+Albanese,100,10,1.83
+Albanese,50,60,1.45
+SmartSweets,300,60,4.34
+Black Forest,150,80,2.54
+Haribo,200,40,2.52
+Albanese,250,30,3.29
+Trolli,50,20,1.17
+Haribo,300,50,3.82
+SmartSweets,150,10,2.56
+Surf Sweets,200,50,2.66
+Jelly Belly,150,60,2.88
+Trolli,100,100,2.09
+Jelly Belly,50,10,1.38
+Haribo,250,30,3.64
+Haribo,50,80,1.22
+SmartSweets,300,40,4.27
+Black Forest,100,20,1.56
+Black Forest,300,10,3.62
+Haribo,200,10,2.84
+Surf Sweets,100,10,1.89
+Jelly Belly,100,10,2.17
+Jelly Belly,500,50,4.74
+SmartSweets,250,50,3.84
+Surf Sweets,500,50,5.79
+Haribo,50,100,1.24
+Haribo,300,100,3.68
+Haribo,500,50,5.98
+Trolli,200,100,2.98
+Surf Sweets,200,100,3.26
+Albanese,250,50,3.88
+Jelly Belly,50,80,1.03
+Haribo,50,60,1.4
+Jelly Belly,50,100,1.05
+Trolli,250,10,3.93
+SmartSweets,100,30,1.7
+SmartSweets,300,40,4.17
+Haribo,500,40,5.49
+Trolli,250,10,3.31
+Black Forest,500,10,5.67
+Haribo,250,100,3.91
+Jelly Belly,500,80,4.83
+Black Forest,200,40,2.92
+Black Forest,100,20,1.56
+Jelly Belly,150,50,2.4
+Surf Sweets,150,60,2.87
+Black Forest,250,80,3.77
+Albanese,100,10,2.2
+Black Forest,300,30,4.11
+Jelly Belly,500,20,5.64
+Albanese,250,40,3.48
+Albanese,200,40,2.79
+Jelly Belly,250,60,3.75
+Trolli,150,80,2.56
+Haribo,50,30,1.44
+Trolli,100,50,1.77
+Jelly Belly,250,100,3.86
+Surf Sweets,300,60,4.34
+Trolli,300,10,4.3
+Black Forest,150,50,2.58
+Haribo,200,100,2.64
+Black Forest,250,100,3.21
+Albanese,100,100,1.85
+Albanese,100,20,1.8
+Haribo,150,30,2.83
+Haribo,200,40,2.77
+Surf Sweets,300,80,4.43
+Black Forest,150,40,2.51
+SmartSweets,500,10,5.57
+Black Forest,300,10,4.39
+Albanese,300,30,3.88
+Albanese,100,30,2.01
+Surf Sweets,300,40,3.64
+Albanese,50,80,1.27
+Trolli,50,50,1.1
+Albanese,100,30,1.79
+Trolli,150,30,2.68
+Albanese,500,50,5.35
+SmartSweets,250,10,3.96
+Albanese,200,30,2.92
+SmartSweets,250,10,3.88
+Jelly Belly,50,40,1.17
+Albanese,200,30,2.76
+Surf Sweets,500,20,5.14
+Black Forest,300,20,4.21
+Black Forest,200,20,3.48
+Black Forest,50,20,1.23
+Haribo,200,80,2.88
+Black Forest,100,30,2.07
+Trolli,500,50,5.95
+Jelly Belly,250,40,3.63
+Jelly Belly,500,40,5.02
+Jelly Belly,50,60,1.12
+Surf Sweets,250,30,3.16
+Albanese,300,10,3.54
+Jelly Belly,50,40,1.06
+Albanese,250,60,3.8
+Albanese,150,20,2.44
+Trolli,250,60,3.81
+Haribo,300,80,4.37
+Jelly Belly,200,80,3.25
+Jelly Belly,150,20,2.75
+Trolli,200,100,3.4
+Albanese,150,20,2.87
+Surf Sweets,300,50,4.01
+Surf Sweets,50,80,1.12
+Albanese,250,60,3.59
+Albanese,300,10,4.45
+Albanese,500,80,4.95
+SmartSweets,250,80,3.05
+Trolli,50,10,1.16
+SmartSweets,300,20,3.55
+Albanese,250,50,3.15
+SmartSweets,300,40,3.81
+Surf Sweets,50,20,1.14
+Jelly Belly,500,50,5
+Haribo,250,20,3.3
+Jelly Belly,150,40,2.27
+SmartSweets,100,30,1.72
+Black Forest,150,40,2.16
+SmartSweets,100,40,2.29
+Black Forest,500,50,5.14
+SmartSweets,300,10,3.81
+Jelly Belly,200,20,2.5
+Albanese,500,100,5.2
+Black Forest,100,100,2.2
+Jelly Belly,50,10,1.2
+Haribo,200,100,2.72
+Black Forest,100,10,2.41
+Black Forest,100,80,2.04
+Albanese,300,20,3.78
+Albanese,500,60,5.33
+Jelly Belly,500,100,5.28
+Black Forest,500,50,4.72
+Surf Sweets,50,50,1.44
+Albanese,500,60,5.2
+Haribo,500,20,5.61
+Trolli,250,40,3.23
+Surf Sweets,250,50,3.71
+Albanese,150,20,2.63
+Trolli,50,60,1.23
+Surf Sweets,100,50,1.82
+Jelly Belly,250,60,3.48
+Surf Sweets,50,20,1.36
+Trolli,150,30,2.49
+Trolli,150,100,2.25
+Jelly Belly,200,60,3.15
+SmartSweets,150,100,2.38
+Black Forest,300,50,3.6
+Haribo,200,20,2.78
+Jelly Belly,300,40,4.33
+SmartSweets,200,80,3.09
+Trolli,200,30,3.05
+Surf Sweets,250,40,3.37
+Surf Sweets,150,30,2.13
+Albanese,500,80,4.65
+SmartSweets,100,80,2.34
+Black Forest,300,100,4.46
+Jelly Belly,200,50,3.47
+Albanese,200,60,2.82
+Black Forest,300,30,4.15
+Haribo,100,10,1.76
+Trolli,100,30,1.97
+Surf Sweets,300,30,3.5
+Albanese,500,20,5.01
+Trolli,300,20,4.38
+SmartSweets,250,60,3.79
+Jelly Belly,50,80,1.02
+Haribo,100,10,1.54
+Albanese,100,10,1.51
+Jelly Belly,250,100,3.98
+Trolli,300,100,3.65
+SmartSweets,100,80,2.02
+Albanese,250,80,3.1
+Surf Sweets,150,60,2.59
+Jelly Belly,50,40,1.35
+Albanese,300,30,3.6
+Surf Sweets,300,10,3.83
+Trolli,100,10,1.5
+Black Forest,500,30,5.37
+Black Forest,50,50,1.26
+SmartSweets,150,30,2.72
+Haribo,200,30,2.82
+Trolli,300,40,3.93
+Jelly Belly,100,20,2.03
+Albanese,200,100,3.16
+Trolli,150,100,2.19
+Surf Sweets,200,60,2.98
+Haribo,500,10,4.72
+Surf Sweets,200,40,3.47
+Haribo,300,40,4.37
+SmartSweets,200,50,3.39
+Trolli,250,80,3.21
+Surf Sweets,50,60,1.33
+Black Forest,300,30,3.78
+SmartSweets,100,10,1.85
+Haribo,50,30,1.4
+Haribo,50,30,1.25
+Surf Sweets,100,80,2.09
+Jelly Belly,200,50,2.73
+SmartSweets,300,50,4.1
+Surf Sweets,150,20,2.75
+Trolli,50,60,1.31
+Surf Sweets,500,20,5.69
+Surf Sweets,500,30,5.38
+Surf Sweets,250,30,3.16
+Black Forest,100,60,1.99
+Black Forest,500,40,4.98
+Black Forest,500,10,5.87
+Albanese,150,20,2.49
+Albanese,200,30,3.43
+Albanese,500,20,5.24
+Surf Sweets,500,40,5.81
+Trolli,250,30,3.67
+Surf Sweets,100,80,1.6
+Trolli,500,40,5.83
+Black Forest,500,60,4.82
+SmartSweets,300,20,3.67
+Trolli,100,20,2.12
+Jelly Belly,50,60,1.19
+Trolli,200,100,3.41
+Haribo,300,50,4.41
+Black Forest,300,10,4.06
+Albanese,150,80,2.56
+Haribo,250,60,3.53
+Black Forest,300,100,4.46
+Surf Sweets,200,20,2.81
+Black Forest,50,20,1.24
+Haribo,50,60,1.16
+Jelly Belly,200,60,3.47
+Black Forest,200,50,2.54
+Haribo,150,80,2.65
+Trolli,200,100,3.4
+Jelly Belly,300,40,3.8
+SmartSweets,100,40,1.52
+SmartSweets,100,80,2.34
+Albanese,50,80,1.26
+Haribo,150,100,2.38
+Surf Sweets,50,30,1.17
+Jelly Belly,50,50,1.32
+SmartSweets,300,60,3.77
+Black Forest,250,30,3.6
+Trolli,50,40,1
+Albanese,500,80,5.29
+Haribo,100,40,2.45
+Haribo,150,20,2.77
+Haribo,200,40,3.18
+Haribo,200,30,3.45
+Trolli,250,40,3.54
+Black Forest,250,80,3.47
+SmartSweets,50,80,1.16
+Black Forest,100,20,1.99
+Surf Sweets,100,20,2.03
+Albanese,200,40,3.38
+Surf Sweets,500,20,4.98
+Jelly Belly,300,20,3.62
+Albanese,300,10,4.13
+Surf Sweets,250,50,3.25
+Jelly Belly,150,40,2.21
+Surf Sweets,50,20,1.03
+Jelly Belly,500,10,5.34
+Black Forest,300,20,4.28
+Black Forest,200,60,3.22
+SmartSweets,150,80,2.17
+Jelly Belly,250,100,3.83
+Haribo,250,20,3.75
+Haribo,50,80,1.18
+Black Forest,250,30,3.26
+SmartSweets,500,30,5.89
+Trolli,300,100,4.32
+Black Forest,200,30,3.33
+Black Forest,200,20,3.14
+Haribo,300,10,4.31
+Haribo,50,20,1.25
+Albanese,200,50,3.01
+Surf Sweets,250,100,3.45
+SmartSweets,200,20,3.06
+Haribo,300,10,4.36
+SmartSweets,300,50,4.16
+Haribo,150,60,2.77
+Albanese,250,20,3.59
+Albanese,200,30,3.33
+SmartSweets,300,60,4.28
+Albanese,200,80,2.56
+Trolli,200,80,3.01
+Haribo,150,60,2.87
+Jelly Belly,100,10,2.44
+Jelly Belly,100,30,2.31
+Jelly Belly,150,10,2.97
+Albanese,50,20,1.48
+Albanese,300,20,4.47
+Albanese,200,60,3.21
+Haribo,150,40,2.52
+Black Forest,500,10,5.63
+Black Forest,50,20,1.28
+Surf Sweets,150,40,2.56
+Black Forest,150,40,2.16
+Surf Sweets,500,30,5.59
+SmartSweets,500,80,4.63
+Trolli,150,60,2.55
+Albanese,200,50,3.08
+Black Forest,100,60,2.13
+Haribo,500,30,5.4
+Albanese,500,80,4.76
+SmartSweets,200,20,2.51
+Black Forest,250,20,3.75
+Jelly Belly,100,30,1.52
+Jelly Belly,250,10,3.96
+SmartSweets,500,40,5.98
+Trolli,50,60,1.06
+Haribo,250,40,3.27
+Trolli,500,60,5.48
+Jelly Belly,150,20,2.3
+Haribo,200,20,3.21
+Black Forest,500,60,5.74
+SmartSweets,50,100,1.23
+Black Forest,500,30,4.99
+Jelly Belly,200,40,2.96
+Trolli,50,40,1.48
+Black Forest,200,40,3.32
+Albanese,100,50,1.63
+Surf Sweets,500,20,5.6
+Trolli,100,40,1.89
+Trolli,100,50,2.21
+Trolli,250,100,3.84
+Haribo,150,60,2.23
+Surf Sweets,100,100,2.02
+SmartSweets,200,30,2.96
+SmartSweets,200,100,2.92
+Black Forest,500,50,5.43
+Surf Sweets,200,20,3.08
+Jelly Belly,150,100,2.74
+Trolli,200,10,2.84
+Surf Sweets,200,80,2.63
+Albanese,150,40,2.11
+Haribo,250,60,3.35
+Black Forest,200,30,2.57
+Jelly Belly,200,50,3.14
+Surf Sweets,50,100,1.24
+Trolli,250,60,3.59
+Albanese,500,20,4.86
+Trolli,250,50,3.27
+Trolli,200,50,2.68
+Albanese,500,20,5.72
+Black Forest,150,100,2.86
+Black Forest,200,60,3.45
+Haribo,200,100,3.31
+SmartSweets,150,80,2.53
+Black Forest,250,60,3.24
+Surf Sweets,100,50,1.94
+Albanese,200,80,3.25
+Jelly Belly,150,80,2.31
+Haribo,250,100,3.63
+Black Forest,150,50,2.48
+Surf Sweets,150,10,2.08
+Albanese,250,40,3.74
+Trolli,100,10,1.82
+Surf Sweets,150,10,2.55
+Surf Sweets,50,30,1.21
+Black Forest,250,30,3.35
+SmartSweets,150,100,2.51
+Haribo,150,60,2.35
+Trolli,300,60,3.53
+SmartSweets,50,80,1.27
+SmartSweets,250,80,3.62
+Black Forest,150,50,2.86
+Surf Sweets,250,40,3.37
+Surf Sweets,250,30,3.57
+Jelly Belly,250,10,3.58
+Albanese,300,40,4.11
+SmartSweets,500,40,4.99
+Albanese,150,100,2.49
+Albanese,50,40,1.14
+Trolli,50,60,1.49
+Surf Sweets,50,40,1.07
+Jelly Belly,200,80,2.69
+Jelly Belly,300,40,3.89
+Trolli,200,80,2.77
+Trolli,50,30,1.07
+Black Forest,50,40,1.2
+Jelly Belly,150,20,2.46
+Haribo,150,100,2.94
+Haribo,500,20,4.62
+Surf Sweets,500,40,5.33
+Albanese,250,80,3.33
+Surf Sweets,250,30,3.91
+Jelly Belly,500,30,5.1
+Surf Sweets,250,40,3.41
+Surf Sweets,100,50,2.24
+Jelly Belly,500,10,5.21
+Surf Sweets,200,80,2.68
+Haribo,150,50,2.88
+Jelly Belly,100,60,2.22
+Haribo,500,100,4.96
+Trolli,500,10,5.84
+Jelly Belly,250,80,3.69
+Trolli,150,50,2.82
+Haribo,500,20,4.53
+Haribo,50,80,1.08
+Black Forest,500,20,5.83
+Haribo,100,40,1.6
+Haribo,200,30,3.19
+Black Forest,500,40,4.79
+Jelly Belly,50,80,1.05
+Jelly Belly,500,80,4.95
+Black Forest,100,10,2.21
+SmartSweets,200,100,2.72
+Albanese,300,60,4.23
+Albanese,200,100,3.24
+SmartSweets,500,100,5.98
+Surf Sweets,300,40,4
+Haribo,250,10,3.99
+Black Forest,200,40,2.79
+Albanese,250,80,3.2
+Black Forest,300,80,3.82
+Trolli,300,40,3.74
+SmartSweets,100,10,1.67
+Albanese,250,40,3.96
+Trolli,150,30,2.81
+Black Forest,250,100,3.1
+Trolli,200,30,2.76
+Black Forest,300,40,4.01
+Jelly Belly,100,60,1.87
+Haribo,150,30,2.53
+Albanese,250,50,3.2
+Albanese,150,40,2.52
+Black Forest,100,10,2.15
+Albanese,500,50,5.48
+Trolli,100,50,1.56
+Albanese,300,10,3.89
+Trolli,100,80,2.18
+Surf Sweets,300,30,4.39
+Jelly Belly,300,100,4.06
+Black Forest,150,100,2.77
+Surf Sweets,150,40,2.23
+Trolli,150,60,2.4
+Black Forest,50,30,1
+Haribo,150,60,2.17
+Trolli,100,40,1.61
+Trolli,50,30,1.24
+Haribo,250,100,3.31
+Surf Sweets,300,30,4.31
+Haribo,150,30,2.92
+Black Forest,500,20,5.65
+Haribo,250,60,3.19
+SmartSweets,50,80,1.08
+Jelly Belly,100,60,2.36
+SmartSweets,200,10,2.9
+Haribo,50,100,1
+SmartSweets,250,40,3.56
+Haribo,200,60,3
+Trolli,150,60,2.68
+Surf Sweets,300,10,4.32
+Haribo,150,20,2.43
+Albanese,300,50,4.43
+Black Forest,300,40,3.76
+SmartSweets,250,100,3.79
+Albanese,500,80,4.69
+Albanese,100,40,2.1
+Surf Sweets,200,40,2.61
+Trolli,200,60,3.4
+Trolli,50,60,1.01
+Trolli,250,30,3.93
+Surf Sweets,100,30,2.49
+Trolli,200,60,2.97
+Jelly Belly,50,30,1.01
+Albanese,200,30,2.73
+Haribo,100,20,2.07
+Albanese,200,50,3.04
+SmartSweets,500,20,5.05
+SmartSweets,150,50,2.67
+Black Forest,150,50,2.03
+SmartSweets,300,50,3.56
+Surf Sweets,500,60,5.89
+Surf Sweets,100,10,2.32
+Jelly Belly,100,80,2
+Black Forest,300,40,4.4
+Black Forest,250,50,3.54
+Surf Sweets,150,60,2.11
+Haribo,50,10,1.45
+SmartSweets,250,30,3.7
+SmartSweets,250,10,3.44
+Trolli,300,10,4.34
+Trolli,300,80,3.71
+Jelly Belly,50,100,1.27
+Surf Sweets,100,80,2.42
+Jelly Belly,150,10,2.8
+SmartSweets,150,60,2.34
+Albanese,150,100,2.89
+Jelly Belly,500,20,4.86
+Surf Sweets,100,10,2.26
+Haribo,300,80,3.77
+Albanese,300,40,4.28
+Black Forest,100,20,2.39
+Surf Sweets,50,100,1.39
+Haribo,100,50,2.2
+Albanese,50,60,1.23
+Trolli,50,10,1.4
+Surf Sweets,150,10,2.3
+Haribo,150,30,2.97
+Haribo,300,100,4.19
+Trolli,150,30,2.61
+Haribo,500,40,5.14
+Jelly Belly,250,60,3.87
+Albanese,50,30,1.05
+Albanese,500,30,5.18
+Haribo,500,80,5.68
+Trolli,50,20,0.99
+Trolli,150,80,2.24
+Surf Sweets,150,10,2.6
+Jelly Belly,300,30,4.35
+Trolli,250,20,3.91
+Jelly Belly,250,50,3.05
+Haribo,200,80,2.54
+SmartSweets,250,80,3.63
+Trolli,150,60,2.16
+SmartSweets,150,100,2.01
+Haribo,100,30,1.65
+Albanese,150,20,2.64
+Haribo,100,80,2.24
+Haribo,200,80,3.33
+Trolli,250,100,3.04
+Surf Sweets,50,10,1.43
+SmartSweets,300,50,3.76
+Albanese,250,100,3.31
+Jelly Belly,300,40,4.46
+Trolli,500,30,4.56
+Albanese,50,20,1.11
+Trolli,150,40,2.07
+Albanese,150,80,2.54
+Surf Sweets,200,50,2.86
+Jelly Belly,250,40,3.48
+Trolli,50,40,1.31
+Trolli,100,40,1.9
+Haribo,50,30,1.03
+Jelly Belly,100,60,1.93
+Surf Sweets,150,20,2.68
+Albanese,300,60,3.51
+Trolli,300,50,4.19
+Surf Sweets,300,100,4.2
+SmartSweets,150,50,2.19
+Surf Sweets,300,40,4.27
+Albanese,250,80,3.35
+Albanese,200,60,3.18
+Jelly Belly,200,100,3.07
+Black Forest,100,100,2.28
+Albanese,100,20,2.3
+Haribo,150,30,2.83
+Surf Sweets,500,80,5.23
+Albanese,200,50,2.53
+Surf Sweets,250,80,3.76
+Trolli,500,20,5.47
+Surf Sweets,100,100,2.33
+Jelly Belly,50,50,1.12
+Haribo,150,20,2.76
+Trolli,250,30,3.84
+Surf Sweets,50,10,1.34
+SmartSweets,150,30,2.61
+Black Forest,50,20,1.04
+Jelly Belly,200,80,2.69
+SmartSweets,300,30,4.04
+SmartSweets,150,10,2.56
+Trolli,250,40,3.54
+Black Forest,100,80,2.04
+Albanese,50,50,1.37
+Surf Sweets,200,60,2.54
+Jelly Belly,250,100,3.82
+Albanese,300,100,4.08
+Trolli,50,40,1.13
+Albanese,300,30,3.99
+Trolli,500,100,4.55
+SmartSweets,200,60,2.55
+Albanese,300,10,4.29
+Jelly Belly,300,100,4.39
+Black Forest,200,30,2.82
+SmartSweets,250,80,3.1
+Surf Sweets,200,50,3.37
+Black Forest,150,40,2.19
+Black Forest,500,40,5.43
+Black Forest,300,50,3.79
+SmartSweets,100,10,2.34
+Jelly Belly,500,50,5.84
+Jelly Belly,200,20,3.49
+Surf Sweets,150,50,2.87
+Black Forest,150,30,2.79
+SmartSweets,250,100,3.54
+Black Forest,100,10,1.88
+Haribo,50,20,1.2
+Albanese,50,60,1.2
+Trolli,50,20,1.1
+Black Forest,150,100,2.79
+Black Forest,100,30,2.35
+Jelly Belly,200,30,3.31
+Jelly Belly,250,50,3.81
+Trolli,50,30,1.21
+Haribo,200,60,3.08
+Jelly Belly,250,20,3.57
+Jelly Belly,100,40,2.33
+Trolli,150,60,2.35
+Albanese,100,20,2.03
+Trolli,100,20,2.42
+Albanese,200,40,2.59
+Haribo,150,100,2.16
+Trolli,100,100,2.21
+SmartSweets,500,50,5.85
+Surf Sweets,150,50,2.48
+Trolli,150,40,2.71
+Trolli,500,10,5
+Surf Sweets,200,20,3.37
+Albanese,50,60,1.3
+Haribo,500,30,5.12
+Black Forest,500,20,5.98
+Black Forest,500,60,4.67
+Jelly Belly,300,40,3.76
+Jelly Belly,50,100,1.17
+SmartSweets,250,100,3.62
+Surf Sweets,500,60,4.98
+Surf Sweets,200,80,3.45
+Albanese,100,50,1.68
+Trolli,100,100,2.4
+Jelly Belly,50,60,1.21
+Jelly Belly,250,60,3.25
+Black Forest,250,80,3.62
+SmartSweets,300,100,3.62
+Surf Sweets,300,50,3.53
+Trolli,300,10,3.89
+Jelly Belly,500,40,5.4
+Trolli,100,80,2.31
+Albanese,200,60,2.76
+Haribo,100,10,2.08
+Haribo,250,10,3.77
+Haribo,300,10,3.73
+Jelly Belly,150,50,2.82
+Surf Sweets,100,60,2.44
+Surf Sweets,300,60,4.3
+Black Forest,500,60,4.9
+Black Forest,200,100,2.53
+SmartSweets,300,50,3.61
+Black Forest,300,30,3.75
+Haribo,50,20,1.09
+Jelly Belly,200,60,2.92
+Albanese,100,100,1.78
+Surf Sweets,150,50,2.13
+Albanese,100,40,1.84
+Trolli,500,20,5.69
+Jelly Belly,300,10,4.41
+Albanese,100,60,2.02
+Jelly Belly,50,10,1.15
+Trolli,300,80,3.76
+Haribo,250,50,3.76
+Jelly Belly,100,50,1.6
+Jelly Belly,150,50,2.64
+Albanese,150,20,2.06
+Albanese,150,30,2.95
+Jelly Belly,100,100,1.64
+SmartSweets,300,60,4.27
+Black Forest,150,60,2.76
+SmartSweets,200,100,2.99
+SmartSweets,250,60,3.01
+Surf Sweets,250,10,3.14
+Black Forest,300,80,3.76
+Haribo,50,20,1.34
+Albanese,500,10,5.39
+Jelly Belly,200,10,2.54
+Trolli,300,60,4.12
+Albanese,300,20,3.54
+Haribo,200,10,2.74
+Jelly Belly,500,100,5.1
+Surf Sweets,200,10,3.03
+SmartSweets,250,50,3.84
+SmartSweets,100,60,2.47
+Trolli,150,30,2.71
+Surf Sweets,50,80,1.04
+Trolli,150,30,2.67
+Jelly Belly,500,20,4.57
+Albanese,300,60,4.17
+Jelly Belly,300,40,4.37
+Jelly Belly,300,40,3.73
+SmartSweets,300,10,3.72
+Trolli,50,60,1.21
+Albanese,250,40,3.21
+Jelly Belly,100,20,2.33
+Black Forest,500,20,5.11
+Surf Sweets,500,50,5.39
+Surf Sweets,100,40,1.91
+Jelly Belly,200,50,3.02
+Albanese,50,80,1.08
+Black Forest,150,60,2.23
+SmartSweets,100,60,2.31
+Jelly Belly,100,60,1.51
+Jelly Belly,100,10,1.9
+Black Forest,200,80,3.29
+Jelly Belly,500,100,5.28
+Trolli,100,10,2.06
+Trolli,200,100,3.04
+Trolli,250,30,3.87
+SmartSweets,500,30,5.59
+Haribo,250,60,3.44
+Surf Sweets,250,100,3.07
+Surf Sweets,250,60,3.46
+Jelly Belly,50,100,1.1
+SmartSweets,50,100,1.09
+Haribo,100,10,2.21
+Albanese,500,40,5.35
+Surf Sweets,200,60,2.99
+Haribo,300,40,4.43
+SmartSweets,200,100,2.74
+Albanese,250,100,3.08
+Jelly Belly,200,100,2.93
+Surf Sweets,150,10,2.07
+SmartSweets,250,20,3.05
+Jelly Belly,100,50,2.42
+Albanese,300,40,3.96
+Black Forest,500,40,5.03
+Albanese,200,20,3.25
+Trolli,50,20,1.25
+Albanese,500,80,5.51
+Trolli,150,20,2.46
+Trolli,500,30,5.61
+Albanese,500,80,4.69
+Surf Sweets,250,20,3.79
+Albanese,250,80,3.23
+Haribo,250,60,3.48
+Surf Sweets,150,30,2.45
+Jelly Belly,300,60,4.11
+SmartSweets,200,80,2.58
+Haribo,50,100,1.23
+Albanese,200,50,3.15
+Jelly Belly,150,80,2.83
+Surf Sweets,50,50,1.06
+Surf Sweets,50,60,1.18
+Trolli,150,80,2.28
+Surf Sweets,150,10,2.4
+Surf Sweets,300,20,3.54
+Jelly Belly,250,50,3.02
+Albanese,200,100,3.38
+SmartSweets,200,30,2.53
+SmartSweets,150,80,2.4
+SmartSweets,200,40,2.52
+Surf Sweets,250,50,3.91
+SmartSweets,100,50,2.24
+Trolli,150,30,2.49
+Black Forest,200,40,2.9
+Surf Sweets,150,100,2.16
+SmartSweets,250,10,3.56
+Jelly Belly,200,80,3.43
+Albanese,150,60,2.45
+Haribo,200,50,2.57
+Albanese,300,20,4.05
+Albanese,200,80,3.15
+SmartSweets,150,50,2.52
+Surf Sweets,150,60,2.94
+SmartSweets,200,60,2.82
