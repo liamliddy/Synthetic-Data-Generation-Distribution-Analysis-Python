@@ -1,4 +1,5 @@
 # Synthetic-Data-Generation-Distribution-Analysis-Python
+🧪Synthetic Data Generation & Analysis (python)
 Developed a Python program to automate the creation of synthetic datasets from real CSV files.
 This project demonstrates Python skills in data validation, analysis, and synthetic data generation.
 
